@@ -1,0 +1,7 @@
+F:\Teaching\OOP2 Fall 20-21\L\Thry3\Thry3\bin\Debug\Thry3.exe.config
+F:\Teaching\OOP2 Fall 20-21\L\Thry3\Thry3\bin\Debug\Thry3.exe
+F:\Teaching\OOP2 Fall 20-21\L\Thry3\Thry3\bin\Debug\Thry3.pdb
+F:\Teaching\OOP2 Fall 20-21\L\Thry3\Thry3\obj\Debug\Thry3.csprojAssemblyReference.cache
+F:\Teaching\OOP2 Fall 20-21\L\Thry3\Thry3\obj\Debug\Thry3.csproj.CoreCompileInputs.cache
+F:\Teaching\OOP2 Fall 20-21\L\Thry3\Thry3\obj\Debug\Thry3.exe
+F:\Teaching\OOP2 Fall 20-21\L\Thry3\Thry3\obj\Debug\Thry3.pdb

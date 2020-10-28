@@ -4,11 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Th2
+namespace Thry5
 {
-    class Program
+    public class Teacher
     {
-        static void Main(string args) {
-        }
     }
 }

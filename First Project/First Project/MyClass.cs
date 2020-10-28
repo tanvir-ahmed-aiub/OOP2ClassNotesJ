@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace First_Project
 {
-    class MyClass
+    public class MyClass
     {
         static void testc(ref string  a, ref string c) {
             string t = a;
